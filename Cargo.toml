@@ -1,7 +1,6 @@
 [package]
-name = "hello_world"
-version = "0.0.0"
-publish = false
+name = "SpotSync_backend"
+version = "0.0.1"
 edition = "2018"
 
 [dependencies]
