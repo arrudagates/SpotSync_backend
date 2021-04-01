@@ -25,4 +25,3 @@ scripts/redirect.html
 *.bak
 
 .env
-Cargo.toml

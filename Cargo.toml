@@ -1,0 +1,14 @@
+[package]
+name = "hello_world"
+version = "0.0.0"
+publish = false
+edition = "2018"
+
+[dependencies]
+tide = "0.16.0"
+async-std = { version = "1.9.0", features = ["attributes", "tokio02"] }
+serde = { version = "*", features = ["derive"] }
+rspotify = "0.10.0"
+dotenv = "0.15.0"
+http-types = "2.10.0"
+serde_json = "*"
